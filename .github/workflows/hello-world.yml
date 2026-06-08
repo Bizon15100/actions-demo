@@ -23,4 +23,4 @@ jobs:
           chmod +x ./hello.sh
           ./hello.sh
       - name: Show GitHub context
-        run: echo "Repository - ${{ github.repository }}
+        run: echo "Repository - ${{ github.repository }}"
