@@ -1,4 +1,4 @@
 # actions-demo
 Opis projektu actions-demo.
 
-Modyfikacja do zadania.
+Testowanie wyzwalacza pull request
